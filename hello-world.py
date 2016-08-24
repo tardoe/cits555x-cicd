@@ -1,6 +1,3 @@
-
-
-
 print "Hello World!"
 
 
@@ -11,9 +8,6 @@ print "Tim French"
 
 
 print "Alastair James Mory"
-
-
-
 
 
 print "Jessica 21123195"
