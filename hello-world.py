@@ -1,5 +1,10 @@
-#!/bin/python
+print "Hello World!"
 
-print("Hello World?")
-print('Tim')
-print('Alastair')
+
+print "Tim Raphael: Hello world!"
+
+
+print "Tim French"
+
+
+print "Alastair Mory"
